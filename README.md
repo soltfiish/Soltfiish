@@ -1,6 +1,6 @@
 # Ayokunle Olufosoye
 
-Systematic futures research, built solo by directing AI agents end to end. This repo is the
+Systematic futures research,This repo is the
 public face of that work: the methodology in full, the results in aggregate, the specifics
 kept private.
 
